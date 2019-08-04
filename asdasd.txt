@@ -4,8 +4,7 @@ Investigar
 
 URLs
 	github.com
-		N3mesix
-		Lalata123qwe
+
 
 
 comandos git
