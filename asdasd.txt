@@ -1,0 +1,14 @@
+Investigar
+	Posicion cero google
+	
+
+URLs
+	github.com
+		N3mesix
+		Lalata123qwe
+
+
+comandos git
+	git config --global user.name ""
+	git config --global user.email ""
+	git init
